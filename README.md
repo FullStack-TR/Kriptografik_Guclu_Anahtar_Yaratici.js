@@ -4,7 +4,7 @@
 JavaScript ile tarayıcı tarafında kriptografik açıdan güçlü açarlar ( anahtarlar ) oluşturur.
 
 ## Ne yapar?
-**f_tekil.js** dosyasının oluşturduğu açar, ```0-9``` ve ```a-f``` arasındaki tamgalardan oluşan 32 tamgalık string türünde bir değerdir.
+**f_tekil.js** dosyasının oluşturduğu açar, ```0-9``` ve ```a-f``` arasındaki tamgalardan oluşan 32 tamgalık ```string``` türünde bir değerdir.
 
 ## Neden?
 Bu değer kriptografik açıdan güçlüdür ve 32 basamak gibi yüksek bir basamak sayısı kullanıldığından ötürü oluşturulan açarın tahmin edilebilmesi oldukça güçtür.
